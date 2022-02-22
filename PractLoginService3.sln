@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractLoginService3", "PractLoginService3.csproj", "{D3D04FE8-E084-4AC9-9670-F65EE7014DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D04FE8-E084-4AC9-9670-F65EE7014DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D04FE8-E084-4AC9-9670-F65EE7014DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D04FE8-E084-4AC9-9670-F65EE7014DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D04FE8-E084-4AC9-9670-F65EE7014DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B759C22C-3F28-414E-BF5E-48772AA934C8}
+	EndGlobalSection
+EndGlobal
